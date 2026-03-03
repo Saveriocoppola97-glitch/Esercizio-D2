@@ -1,0 +1,14 @@
+#logo-epicode {
+    height: 80px;
+    margin-top: 0.8em;
+    display: block;
+}
+table {
+    min-width: 300px;
+}
+#tr {
+    text-align: left;
+}
+caption {
+    font-size: 1.4em;
+}
